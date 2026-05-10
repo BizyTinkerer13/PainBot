@@ -1,6 +1,6 @@
-# PainBot — FRC Team 9521 (2024/2025 Season)
+# FRC Team 9521 (2024/2025 Season)
 
-This is the robot code for **PainBot**, Team 9521's competition robot for the 2024/2025 FRC season. It uses a **swerve drive** (MAXSwerve modules) and is written in **Java** using the WPILib framework.
+This is the robot code for (i think it was called) **SanRio**, Team 9521's competition robot for the 2024/2025 FRC season. It uses a **swerve drive** (MAXSwerve modules) and is written in **Java** using the WPILib framework.
 
 > **Note:** This code is incomplete and was left as a starting point for future team members. Read this guide fully before touching anything.
 
